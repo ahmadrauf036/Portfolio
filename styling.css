@@ -263,3 +263,10 @@ header #menu{
         height: 50%;
     }
 }
+#page2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color:aliceblue;
+    font-size: xx-large;
+}
